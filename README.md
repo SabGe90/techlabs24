@@ -4,8 +4,11 @@ Techlabs24 group6 code.
 Projektbeschreibung: Sozialindikatorenanalyse für die Stadtteile/Bezirke in Münster (NRW) und in Zusammenhang bring mit der sozialen Teilhabe in diesen Stadtteilen/Bezirken. Folgende Fragestellungen kann man dabei untersuchen:
 
 -Gibt es eine Korrelation zwischen dem sozialen Score und der Teilnahmerate?
+
 -Welche Stadtteile haben hohe soziale Scores, aber niedrige Teilnahme, oder umgekehrt?
+
 -Können wir die Teilnahmerate basierend auf dem sozialen Score vorhersagen?
+
 -Welche Faktoren tragen zu den Unterschieden in der Teilnahme zwischen den Gebieten bei?
 
 # Reihenfolge der Dateien:
