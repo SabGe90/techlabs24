@@ -1,5 +1,6 @@
 
-Regressionsmodellergebnisse in R, zB an der Quelle "Datensatz_Techlabs.csv". 
+#Regressionsmodellergebnisse in R, Quelle "Datensatz_Techlabs.csv"
+
 library(readxl)
 Datensatz_Techlabs <- read.csv2(“~/Desktop/Unterlagen etc/Fortbildungen etc./TechLabs/Datensatz/Datensatz_Techlabs.csv”)
 View(Datensatz_Techlabs)
