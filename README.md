@@ -1,7 +1,7 @@
 # techlabs24
 Techlabs24 group6 code. In Python und ergänzend in R.
 
-Projektbeschreibung: Sozialindikatorenanalyse für die Stadtteile/Bezirke in Münster (NRW) und in Zusammenhang bring mit der sozialen Teilhabe in diesen Stadtteilen/Bezirken. Folgende Fragestellungen kann man dabei untersuchen:
+Projektbeschreibung: Sozialindikatorenanalyse für die Stadtteile/Bezirke in Münster (NRW) und in Zusammenhang bring mit der sozialen Teilhabe in diesen Stadtteilen/Bezirken. Folgende Fragestellungen kann man dabei beispielsweise untersuchen:
 
 -Gibt es eine Korrelation zwischen dem sozialen Score und der Teilnahmerate?
 
@@ -11,7 +11,9 @@ Projektbeschreibung: Sozialindikatorenanalyse für die Stadtteile/Bezirke in Mü
 
 -Welche Faktoren tragen zu den Unterschieden in der Teilnahme zwischen den Gebieten bei?
 
-# Reihenfolge der Dateien:
+Unser Ziel wird allerdings sein, die Stadtbezirke Münsters zu clustern und Handlungsbedarf anhand der Analysen aus 1-5 (s.u.) aufzudecken. 
+
+# Reihenfolge der Dateien/ Analyseschritte:
 1. In der *Sozialstrukturanalyse.ipynb* wird in Münsters Bezirken bzw Stadtteilen der Anteil an zB Arbeitslosen oder alleinerziehende Haushalte (und andere Sozialindikatoren) untersucht
 2. In *Korrelationsanalyse_Sozialindikatoren.ipynb* wird geschaut welche Sozialindikatoren miteinander im Zusammenhang stehen könnten
 3. In *Wahlenbeteiligungsanalyse.ipynb* wird sich die Wahlbeteiligung in Münster auf Bezirksebene angesehen
